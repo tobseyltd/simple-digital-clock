@@ -1,3 +1,3 @@
-#[SIMPLE PRACTICE PROJECT #1]
+# [SIMPLE PRACTICE PROJECT #1]
 
-## Creating a digital clock app
+### Creating a digital clock app
