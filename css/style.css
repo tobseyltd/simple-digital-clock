@@ -1,0 +1,41 @@
+/*FONTS IMPORT*/
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Roboto&display=swap');
+
+/*HELPER CLASSES */
+.centered {
+    text-align: center;
+    margin: 0 auto;
+}
+
+/*MAIN STYLING*/
+body {
+    background-color: lightgray;
+    margin: 0 auto;
+    font-family: 'Roboto', 'Arial';
+    font-size: 18px;
+    color: black;
+}
+
+header h2 {
+    font-size: 2.5rem;
+}
+
+.clock-container {
+    width: 40rem;
+    border-radius: 10rem;
+    background-color: black;
+}
+
+#clock h3 {
+    padding: 3.5rem 0;
+    font-size: 5rem;
+    color: red;
+    letter-spacing: 0.1rem;
+    font-family: 'Orbitron', 'Arial';
+
+}
+
+
+#date p {
+    font-size: 1.5rem;
+}
